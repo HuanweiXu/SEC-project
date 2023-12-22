@@ -1,0 +1,1483 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.txt
+<TEXT>                                                                    Exhibit 10.1                            STOCK PURCHASE AGREEMENT                          DATED AS OF DECEMBER 14, 2006                                  BY AND AMONG                           eLEC COMMUNICATIONS CORP.,                             CYBD ACQUISITION, INC.,                                       AND                              CYBER DIGITAL, INC.,                            with respect to the stock                                       of                          NEW ROCHELLE TELEPHONE CORP.<PAGE>                            STOCK PURCHASE AGREEMENT
+                            ------------------------      This STOCK PURCHASE AGREEMENT, dated as of December 14, 2006 (the
+"Agreement"), is entered into by and among eLEC Communications Corp., a New York
+corporation having an address at 75 South Broadway Suite 302 White Plains, NY
+10601 ("Seller"), CYBD Acquisition, Inc., a New York corporation and
+wholly-owned subsidiary of Cyber Digital (as defined below) having an address at
+400 Oser Avenue, Hauppauge, New York 11788 ("Acquisition Sub"), and Cyber
+Digital, Inc., a New York corporation having an address at 400 Oser Avenue,
+Hauppauge, New York 11788 ("Cyber Digital" and, together with Acquisition Sub,
+collectively, "Purchaser").      WHEREAS, Seller owns thirty (30) shares (the "Shares") of the common
+stock, no par value (the "Common Stock"), of New Rochelle Telephone Corp., a New
+York corporation (the "Company"), which Shares constitute 100% of the issued and
+outstanding shares of the Common Stock;      WHEREAS, Cyber Digital owns all of the issued and outstanding shares of
+the common stock of Acquisition Sub;      WHEREAS, Seller and Laurus Master Fund, Inc. ("Laurus") are party to the
+Existing Notes (as defined herein), pursuant to which, among other things, an
+aggregate principal balance of $1,258,297.26 remains payable by Seller to
+Laurus;      WHEREAS, pursuant to that certain Stock Purchase Agreement, dated as of
+even date herewith (the "TSI Agreement"), by and among Seller, Acquisition Sub
+and Cyber Digital, CYBD Acquisition II, Inc., a wholly-owned Subsidiary of Cyber
+Digital, has agreed to purchase from Seller 100% of the outstanding shares of
+the common stock, no par value, of Telecarrier Services, Inc., a Delaware
+corporation; and      WHEREAS, Seller desires to sell to Acquisition Sub, and Acquisition Sub
+desires to purchase from Seller, the Shares, upon the terms and conditions set
+forth herein.      NOW, THEREFORE, in consideration of the premises and the mutual
+agreements, covenants and provisions herein contained, the parties hereto hereby
+agree as follows:                                    ARTICLE I                               CERTAIN DEFINITIONS
+                               -------------------      As used in this Agreement each of the following terms shall have the
+following meaning:      1.01 "Affiliate" shall mean an affiliate of a Person as the term
+"affiliate" is defined in Rule 144(a)(1) promulgated under the Securities Act of
+1933, as amended (the "Securities Act").      1.02 "Audit" shall mean any audit, assessment of Taxes, any other
+examination or claim by any Tax Authority, judicial, administrative or other
+proceeding or litigation (including
+<PAGE>any appeal of any such judicial, administrative or other proceeding or
+litigation) relating to Taxes and/or Tax Returns.      1.03 "Business" shall mean the resale by the Company of local and long
+distance telecommunications exchange services and other public
+telecommunications services.      1.04 "Code" shall mean the Internal Revenue Code of 1986, as amended.      1.05 "Computer Equipment" shall mean all computer equipment, devices and
+accessories (including personal computers, workstations, servers, data
+processing hardware and related telecommunications equipment, media and tools)
+used by the Company in the Business.      1.06 "Encumbrance" shall mean, with respect to any Person, any mortgage,
+lien (statutory or other), pledge, hypothecation, security interest, charge or
+other preference or encumbrance of any kind (including, without limitation, any
+agreement to give any of the foregoing), or any sale of accounts receivable or
+chattel paper, or any assignment, deposit arrangement or lease intended as, or
+having the effect of, security, or any other interest or title of any vendor,
+lessor, lender or other secured party to or of such Person under any conditional
+sale or other title retention agreement or any capitalized lease or upon or with
+respect to any property or asset of such Person (including, in the case of
+shares of equity securities, stockholder agreements, voting trust agreements and
+other similar arrangements).      1.07 "Existing Notes" shall mean, collectively, (a) that certain Amended
+and Restated Secured Term Note, dated as of May 31, 2006, payable by Seller to
+Laurus, amending and restating that certain Secured Convertible Term Note, dated
+as of February 8, 2005, and (b) that certain Amended and Restated Secured Term
+Note, dated as of May 31, 2006, payable by Seller to Laurus, amending and
+restating that certain Secured Convertible Term Note, dated as of November 30,
+2005.      1.08 "Existing Note Documents" shall mean, collectively, (a) the Master
+Security Agreement, dated as of February 8, 2005, among Seller, the Company and
+certain other Subsidiaries of Seller in favor of Laurus; (b) the Stock Pledge
+Agreement, dated as of February 8, 2005, between Seller and Laurus; and (c) the
+Subsidiary Guarantee, dated as of February 8, 2005, from the Company and certain
+other Subsidiaries of Seller to Laurus.      1.09 "Existing Office" shall mean that certain office space located at 75
+South Broadway, Suite 302, White Plains, New York 10601.      1.10 "GAAP" shall mean generally accepted accounting principles as in
+effect in the United States on the Closing Date.      1.11 "Governmental Authority" shall mean any nation or government, any
+federal, state, city, town, municipality, county, local or other political
+subdivision thereof or thereto and any department, commission, board, bureau,
+instrumentality, agency or other entity exercising executive, legislative,
+judicial, taxing, regulatory or administrative powers or functions of or
+pertaining to government.
+                                       2
+<PAGE>      1.12 "Intellectual Property" shall mean all of the following, whether now
+owned or hereafter arising or acquired: licenses, franchises, permits, patents,
+patent rights, copyrights, works which are the subject matter of copyrights,
+trademarks, trade names, trade styles, patent and trademark applications and
+licenses and rights thereunder, including, without limitation, those patents,
+trademarks and copyrights set forth on Schedule 1.12, and all other rights under
+any of the foregoing, all extensions, renewals, reissues, divisions,
+continuations and continuations in part of any of the foregoing, and all rights
+to sue for past, present and future infringement of any of the foregoing;
+inventions, trade secrets, formulae, processes, compounds, drawings, designs,
+blueprints, surveys, reports, manuals and operating standards; goodwill,
+customer and other lists, in whatever form maintained; and trade secret rights,
+copyright rights, rights in works of authorship, and contract rights relating to
+computer software programs, in whatever form created or maintained.      1.13 "Investment" shall mean, as applied to any Person, (i) any direct or
+indirect purchase or other acquisition by such Person of any notes, obligations,
+instruments, stock, securities or ownership interest, (including partnership
+interests and joint venture interests) of any Person and (ii) any capital
+contribution by such Person to any other Person.      1.14 "Landlord Consent" shall mean that certain consent, addressed to
+Cyber Digital, Acquisition Sub and Seller, and substantially in the form
+attached hereto as Exhibit A, required to be obtained from South Broadway WP,
+LLC (the "Landlord") in order to effect an assignment of that certain Lease
+Agreement, dated as of August 18, 2003, by and between the Landlord and the
+Company, pursuant to Section 22.01(a) thereof.      1.15 "Leased Tangible Property" shall mean all machinery, furniture,
+equipment (including Computer Equipment) and other tangible personal property,
+in each case which is subject to a leasehold interest.      1.16 "Legal Proceeding" shall mean any judicial, administrative or
+arbitral action, cause of action, suit, arbitration, mediation, claim,
+complaint, criminal prosecution, charge, examination or investigation, audit,
+demand, compliance review, inspection, hearing or other proceeding (public or
+private) by or before a Governmental Authority.      1.17 "Material Adverse Effect" shall mean a material adverse effect on the
+Business, the Assets or the liabilities, properties, prospects, condition
+(financial or otherwise), performance, operations or results of operations of
+the Company, either individually or when aggregated with other such effects.      1.18 "New Note" shall mean that certain Secured Convertible Term Note, to
+be dated the Closing Date, to be payable by Cyber Digital or Acquisition Sub (or
+another of Cyber Digital's Subsidiaries) to Laurus, in the aggregate principal
+amount of $1,300,000.00.      1.19 "New Note Documents" shall mean, collectively, the Securities
+Purchase Agreement, the Stock Pledge Agreement, the Master Security Agreement,
+the Funds Escrow Agreement, the Subordination Agreement, the Assignment of
+Monies Due and to Become Due and the Registration Rights Agreement, each to be
+entered into by and among Laurus,
+                                       3
+<PAGE>Acquisition Sub, Cyber Digital and the other Persons party thereto in connection
+with the New Note.      1.20 "Owned Tangible Property" shall mean all Computer Equipment and other
+machinery, furniture, equipment and other tangible personal property owned by
+the Company, used in connection with the Business and identified on Schedule
+1.20.      1.21 "Person" shall mean an individual, partnership, corporation, limited
+liability company, association, joint stock company, trust, joint venture,
+unincorporated organization or other entity, or any Governmental Authority.      1.22 "Proprietary Information" shall mean any process, design, formula,
+know-how, information, invention, trade secret, technology, or research,
+marketing or other data which has not entered the public domain.      1.23 "Regulatory Approvals" shall mean (a) the approvals and/or consents
+of the respective Boards of Public Utilities of the States of New York, New
+Jersey and Pennsylvania, and (b) the notification to the U.S. Federal
+Communications Commission, in each case necessary to effect the transfer of
+control of the Company from Seller to Purchaser as contemplated hereby.      1.24 "Representative" shall mean, with respect to any Person, any officer,
+director, principal, manager, member, attorney, accountant, agent, employee,
+consultant, financial advisor or other authorized representative of such Person.      1.25 "SEC" shall mean the U.S. Securities and Exchange Commission.      1.26 "Subsidiary" shall mean, with respect to any Person (the "parent"),
+at any date, any corporation, limited liability company, partnership,
+association or other entity the accounts of which would be consolidated with
+those of the parent in the parent's consolidated financial statements if such
+financial statements were prepared in accordance with GAAP as of such date, as
+well as any other corporation, limited liability company, partnership,
+association or other entity of which securities or other ownership interests
+representing more than 50% of the equity securities or more than 50% of the
+voting securities or, in the case of a partnership, more than 50% of the general
+partnership interests are, as of such date, owned, controlled or held, directly
+or indirectly, by one or more of the parent and its Subsidiaries.      1.27 "Subsisting Contract" shall mean any contract, agreement,
+subcontract, commitment, lease, understanding, mortgage, indenture, instrument,
+note, option, warranty, purchase order, license, sublicense, franchise,
+insurance policy, benefit plan or legally binding commitment, undertaking or
+restriction of any kind or nature to which the Company is a party or by which
+the Company is bound, or to which any of the Assets are subject, including,
+without limitation, Third Party Licenses, telecommunications service agreements,
+contracts with local exchange carriers, agency contracts, distributor contracts,
+customer contracts, vendor contracts and billing contracts.
+                                       4
+<PAGE>      1.28 "Tangible Property" shall mean the Owned Tangible Property and the
+Leased Tangible Property, but excluding the Tangible Property identified on
+Schedule 1.28.      1.29 "Tangible Property Leases" shall mean any Subsisting Contract
+granting a right to use Leased Tangible Property.      1.30 "Taxes" shall mean any federal, state, local, or foreign income,
+gross receipts, license, payroll, wage, employment, excise, utility,
+communications, production, occupancy, severance, stamp, occupation, premium,
+windfall profits, environmental, customs duties, capital stock, capital levy,
+franchise, profits, withholding, social security (or similar), unemployment,
+disability, real property, personal property, sales, use, transfer,
+registration, value added, alternative or add-on minimum, estimated, or other
+tax of any kind whatsoever, including, without limitation, penalties, additions
+to tax, and interest attributable thereto (together with any interest on any
+such interest, penalties and additions to tax), and any liability for any of the
+above-listed amounts on behalf of any person through operation of law or as a
+result of any contractual agreement.      1.31 "Tax Authority" shall mean the Internal Revenue Service (the "IRS")
+and any other domestic or foreign authority responsible for the administration
+of any Taxes.      1.32 "Tax Returns" shall mean all original and amended federal, state,
+local and foreign tax returns, declarations, statements, reports, schedules,
+forms and information returns relating to Taxes.      1.33 "Third Party License" shall mean the grant to the Company by any
+Person of any right to use any Intellectual Property, Proprietary Information or
+other intangible personal property.                                   ARTICLE II                   PURCHASE AND SALE OF SHARES; PURCHASE PRICE
+                   -------------------------------------------      2.01 Purchase and Sale of the Shares. Upon the terms and subject to the
+conditions of this Agreement, at the Closing (as defined below), Seller shall
+sell, transfer and assign to Acquisition Sub the Shares and, concurrently
+therewith, shall instruct Laurus to cause one or more certificates representing
+the Shares, duly endorsed or accompanied by one or more stock powers duly
+endorsed in blank, to be issued in the name of, and delivered to, Acquisition
+Sub, in consideration of the payment of the Purchase Price as provided in
+Section 2.02 hereof.      2.02 Purchase Price. Upon the terms and subject to the conditions of this
+Agreement, at the Closing, Acquisition Sub shall purchase, acquire and accept
+the Shares from Seller and, in full payment therefor, concurrently therewith,
+Cyber Digital or Acquisition Sub shall either (a) issue the New Note in favor of
+Laurus, pursuant to which, among other things, an outstanding principal amount
+of $800,000 (such amount, the "Purchase Price") shall be payable, which shall be
+effected and evidenced as set forth herein, or (b) pay to Laurus an amount in
+cash equal to the Purchase Price, in either case, in full satisfaction and
+discharge of such outstanding amount equal
+                                       5
+<PAGE>to the Purchase Price which, immediately prior to the Closing, was payable by
+Seller to Laurus pursuant to the Existing Notes.                                   ARTICLE III                   CLOSING AND PAYMENT OBLIGATION; TERMINATION
+                   -------------------------------------------      3.01 Closing. The consummation of the purchase and sale transactions
+contemplated by this Agreement (the "Closing") shall be held at the offices of
+Pryor Cashman Sherman & Flynn LLP, 410 Park Avenue, New York, New York 10022 (or
+such other place as the parties hereto may designate) on a date to be specified
+by Purchaser and Seller, which date shall be no later than the fifth business
+day following the satisfaction or waiver of each condition to Closing set forth
+in Article VII (other than conditions that by their nature are to be satisfied
+at the Closing, but subject to the satisfaction or waiver of such conditions),
+unless another time or date, or both, are agreed to in writing by the parties
+hereto. Notwithstanding anything contained in this Section 3.01 to the contrary,
+in no event shall the date of the Closing be extended beyond the Outside Date.
+The date of the Closing is sometimes herein referred to as the "Closing Date".      3.02 Deliveries by Seller. On the Closing Date, Seller shall deliver (or
+shall caused to be delivered on its behalf) to Purchaser the following
+agreements and documents:            (a) the Employee Leasing Agreement;            (b) the TSI Agreement, duly executed by Seller;            (c) (i) a certificate of good standing for the Company, dated as of
+the Closing Date or the most recent date practicable prior thereto, issued by
+the Secretary of State of the State of New York; (ii) a certificate of good
+standing for the Company, dated as of the Closing Date or the most recent date
+practicable prior thereto, issued by the Secretary of State of each of New York,
+New Jersey and Pennsylvania; and (iii) a copy of the certificate of
+incorporation of the Company, including all amendments thereto, certified as of
+the Closing Date or the most recent date practicable prior thereto by the
+Secretary of State of the State of New York;            (d) a certificate of an authorized officer of Laurus, certifying
+that Laurus consents to and approves of the sale of the Shares and the other
+transactions contemplated by this Agreement;            (e) evidence that each of the Existing Notes and each Existing Note
+Document has been duly terminated, canceled, amended and/or otherwise modified,
+such that neither the Company nor Purchaser shall have any liabilities or
+obligations thereunder from and after the Closing;            (f) the Landlord Consent, duly executed and delivered by the
+Landlord;            (g) evidence that each director of the Company in office immediately
+prior to the Closing has tendered to the Company his or her resignation as a
+director, effective as of the Closing;
+                                       6
+<PAGE>            (h) a certificate of an authorized officer of Seller, certifying the
+completeness and accuracy, in all material respects, of all of the
+representations and warranties made by Seller in this Agreement, as though made
+on and as of the Closing Date; and            (i) such other documents and instruments as in the opinion of
+counsel for Purchaser may be reasonably required to effectuate the terms of this
+Agreement and to comply with the terms hereof.      3.03 Deliveries by Purchaser. On the Closing Date, Purchaser shall deliver
+(or shall caused to be delivered on its behalf) to Seller the following
+agreements and documents:            (a) the Employee Leasing Agreement;            (b) evidence of Cyber Digital's and Acquisition Sub's due execution
+and delivery to Laurus of the New Note and the New Note Documents;            (c) the TSI Agreement, duly executed by Cyber Digital and CYBD
+Acquisition II, Inc., a wholly-owned subsidiary of Cyber Digital;            (d) a certificate of an authorized officer of Cyber Digital,
+certifying that Purchaser has made and/or obtained all of the Regulatory
+Approvals;            (e) a certificate of an authorized officer of Cyber Digital,
+certifying the completeness and accuracy, in all material respects, of all of
+the representations and warranties made by each of Cyber Digital and Acquisition
+Sub in this Agreement, as though made on and as of the Closing Date;            (f) evidence reasonably satisfactory to Seller that Laurus has
+applied an amount equal to the Purchase Price to the payment of outstanding
+principal of or accrued interest on the Existing Notes; and            (g) such other documents and instruments as in the opinion of
+counsel for Seller may be reasonably required to effectuate the terms of this
+Agreement and to comply with the terms hereof.      3.04 Further Assurances. After the Closing, at the request of Purchaser
+and without further conditions or consideration, Seller shall execute and
+deliver from time to time such other instruments of conveyance and transfer and
+take such other actions as Purchaser may reasonably request in order to more
+effectively consummate the transactions contemplated hereby and to vest in
+Acquisition Sub all right, title and interest in and to the Shares.      3.05 Termination. This Agreement may be terminated and the transactions
+contemplated hereby may be abandoned any time prior to the Closing as follows:            (a) at the election of either Purchaser or Seller at any time after
+March 2, 2007 (the "Outside Date"), if the Closing shall not have then occurred
+by the close of business on such date, provided that neither Purchaser nor
+Seller shall be entitled to terminate this Agreement
+                                       7
+<PAGE>on or after the Outside Date if the principal reason the transactions
+contemplated hereby shall not have been consummated by such time is the willful
+and material breach by such party (or in the case of Purchaser, by Cyber Digital
+or Acquisition Sub) of any of its or their obligations under this Agreement;            (b) by mutual written consent of Purchaser and Seller;            (c) by either Purchaser or Seller, if there shall be in effect any
+applicable law or any final nonappealable order of a Governmental Authority of
+competent jurisdiction, in each case restraining, enjoining or otherwise
+prohibiting the consummation of the transactions contemplated hereby; it being
+agreed that the parties hereto shall promptly appeal any adverse determination
+which is not nonappealable (and pursue such appeal with reasonable diligence);            (d) by Purchaser, if (i) Purchaser is not then in material breach of
+any of its representations, warranties, covenants or agreements contained in
+this Agreement, and (ii) any of the conditions set forth in Section 7.01 is
+incapable of fulfillment, or if the breach giving rise to the failure of any
+such conditions to be satisfied is capable of being cured, such breach shall not
+have been cured within thirty (30) days following receipt by Seller of written
+notice of such breach from Purchaser; or            (e) by Seller, if (x) Seller is not then in material breach of any
+of its representations, warranties, covenants or agreements contained in this
+Agreement, and (y) any of the conditions set forth in Section 7.02 is incapable
+of fulfillment, or if the breach giving rise to the failure of any such
+conditions to be satisfied is capable of being cured, such breach shall not have
+been cured within thirty (30) days following receipt by Purchaser of written
+notice of such breach from Seller.      3.06 Procedure Upon Termination. In the event of termination of this
+Agreement by Purchaser or Seller, or both, pursuant to the foregoing Section
+3.05, written notice thereof shall forthwith be given to the other party, and
+this Agreement shall terminate, and the transactions contemplated hereby shall
+be abandoned, without further action by Purchaser or Seller.      3.07 Effect of Termination. In the event that this Agreement is validly
+terminated in accordance with Sections 3.05 and 3.06, then each of the parties
+hereto shall be relieved of their duties and obligations arising under this
+Agreement after the date of such termination and such termination shall be
+without liability to any of Purchaser or Seller; provided, that no such
+termination shall relieve any party hereto from liability for any breach of this
+Agreement; provided, further, that (a) the obligations of the parties set forth
+in Section 4.07(a) hereof shall survive any such termination and shall be
+enforceable hereunder, and (b) no termination shall impair the right of any
+party to compel specific performance by any other party of its obligations
+hereunder.
+                                       8
+<PAGE>                                   ARTICLE IV                        ADDITIONAL AGREEMENTS; COVENANTS
+                        --------------------------------      4.01 Agreement Not to Compete, Not to Solicit and to Maintain
+Confidentiality.            (a) For good and valuable consideration, including without
+limitation the portion of the Purchase Price allocated in respect of these
+covenants, Seller agrees that for a period commencing on the date of this
+Agreement and ending three (3) years from the Closing Date (the "Non-Compete
+Term"), Seller shall not, and shall use its best efforts to ensure that any
+agents, representatives and any other Persons acting on its behalf (Seller and
+such agents, representatives, and other Persons being collectively referred to
+as the "Restricted Persons") do not, directly or indirectly, for the benefit of
+any Restricted Person or any of their respective Affiliates:                  (i) induce, persuade, or attempt to induce or persuade any
+            customer of the Business to divert any of its business away from the
+            Business, or otherwise terminate its relationship with the Business;
+            or                  (ii) hire, retain or attempt to hire or retain any employee or
+            independent contractor of the Business, or solicit, attempt to
+            solicit, participate in the solicitation of, or otherwise advise or
+            encourage any employee, independent contractor, agent, consultant or
+            representative of the Business to terminate his or her relationship
+            with the Business, in each case, other than with respect to the
+            Covered Employees (as defined herein).            (b) Subject to Section 4.04 hereof, Seller acknowledges it has
+knowledge of certain technical, commercial and marketing information, data and
+material regarding the Company and the Business including, without limitation,
+lists of customers, trade secrets and other Proprietary Information of the
+Company, which Seller has historically treated as confidential and proprietary
+(the "Confidential Information"). Seller agrees that a substantial portion of
+the Purchase Price is being paid for such Confidential Information and that it
+represents a substantial investment having great economic and commercial value
+to Purchaser, and constitutes a substantial part of the value to Purchaser of
+the Business. Seller acknowledges that Purchaser would be irreparably damaged if
+Seller did not afford such Confidential Information at least the same level of
+confidentiality as Seller afforded such Confidential Information prior to the
+date hereof, in the ordinary course of business (i.e., if any of the
+Confidential Information was disclosed to, or used or exploited on behalf of,
+any Person other than Purchaser, the Company or any of their respective
+Affiliates). Accordingly, Seller covenants and agrees that Seller shall not, and
+shall use its best efforts to ensure that each other Restricted Person does not,
+without the prior written consent of Purchaser, disclose, use or exploit any
+such Confidential Information, for the benefit of any of such Restricted Persons
+or of any third party, except that Seller may disclose, use or exploit a
+particular item of Confidential Information if and to the extent (but only if
+and to the extent) that such item:            (i) is or becomes publicly known or generally known in the industry
+      through no act of any Restricted Person or otherwise in violation of this
+      Section 4.01;
+                                       9
+<PAGE>            (ii) is required to be disclosed to or by order of a Governmental
+      Authority or a court of law or otherwise as required by applicable law;
+      provided, that prior to any such disclosure, notice of such requirement of
+      disclosure is provided to Purchaser and Purchaser is afforded the
+      reasonable opportunity to object to such disclosure;            (iii) is disclosed to Seller by a third party, provided that such
+      disclosure is not prohibited by any legal, contractual, fiduciary or other
+      confidentiality obligation owed to Purchaser; or            (iv) is required to be disclosed to the parties' attorneys,
+      accountants or other agents or employees in connection with the
+      transactions contemplated by this Agreement.      4.02 Tax Matters.
+           -----------            (a) Tax Returns. Seller shall duly prepare, or cause to be prepared,
+and file, or cause to be filed at its own expense, on a timely basis all Tax
+Returns with respect to the Company, to the extent relating to income taxes, for
+any taxable periods ending on or before the Closing Date, as set forth on
+Schedule 4.02(a). Such Tax Returns shall be filed on a basis consistent with the
+past practice of the Company. Purchaser shall duly prepare, or cause to be
+prepared, and file at its own expense, or cause to be filed, all Tax Returns
+with respect to the Company for any taxable periods ending after the Closing
+Date. Unless Seller's written consent is first obtained or unless required by
+applicable law, Purchaser shall not take any action which would in any way alter
+the balance of Taxes owing or Tax refunds or credits obtainable with respect to
+any period ending on or before the Closing Date.            (b) Cooperation on Tax Matters. Purchaser and Seller shall cooperate
+fully, as and to the extent reasonably requested by the other party, in
+connection with the filing of Tax Returns pursuant to this Section 4.02
+(including amended Tax Returns for any tax period prior to the Closing Date (or
+portions thereof) that Seller may reasonably request Purchaser to file) and any
+Audit. Such cooperation shall include the retention and (upon the other party's
+request) the provision of records and information which are reasonably relevant
+to such Audit. Neither Purchaser nor Seller shall dispose of any records
+relating to Taxes paid or payable by the Company and which are attributable to
+Pre-Closing Tax Periods prior to the later of the expiration of the applicable
+limitations period on assessment with respect to any such Taxes, the sixth
+anniversary of the Closing Date or the final resolution of all litigation
+initiated prior to the sixth anniversary of the Closing Date relating to any
+such Taxes.            (c) Seller shall be responsible for all income taxes of the Company
+for all taxable periods or portions thereof ending on or before the Closing
+Date. In the case of any taxable period that includes but does not end on the
+Closing Date, the amount of any such Taxes based on or measured by income or
+receipts shall be allocated between the portions of such taxable period before
+and after the Closing Date based on an interim closing of the books method, and
+the amount of any other such Taxes shall be allocated between the portions of
+such taxable period that are before and after the Closing Date proportionately
+based on the number of days in each such portion.
+                                       10
+<PAGE>      4.03 Referral of Business. Purchaser agrees that if it is solicited by its
+customers or by a potential customer for Voice over Internet Protocol services,
+and Purchaser is not providing such services at the time of such solicitation,
+then Purchaser will refer such customer to Seller. If Seller receives an inquiry
+from a potential customer who is seeking traditional wireline telephony services
+in any jurisdiction in which Purchaser is then operating, and Seller is not
+currently selling wireline services in such jurisdiction, Seller agrees that the
+potential customer will be instructed to contact Cyber Digital for such
+services. In either case, the party that makes such customer referral will be
+paid a referral fee of $50 per line by the other party for any customer line
+that is actually and successfully provisioned and billed by such other party.      4.04 Customer Service Sharing. Purchaser acknowledges that customer
+service employees of the Company are trained to provide customer service support
+services to customers of an Affiliate of Seller, VoX Communications Corp.
+("VoX"). Purchaser agrees to allow such customer service to VoX to continue for
+a minimum period of six months after the Closing Date on a basis consistent with
+past practice. On a monthly basis, Seller will reimburse Purchaser at a rate of
+thirty-five cents a minute for customer service provided to Seller, based on the
+number of inbound minutes on the VoX toll free number that rings in the customer
+service center of the Company.      4.05 Employee Leasing Agreement. At or prior to the Closing, Cyber
+Digital, Acquisition Sub and Seller shall enter into an employee leasing
+agreement, substantially in the form attached hereto as Exhibit B (the "Employee
+Leasing Agreement"), which shall provide, among other things, that during the
+twelve (12) months following the Closing Date, each of (i) Paul H. Riss, the
+current Chief Executive Officer of Seller, (ii) Frank Tosi, the current
+Controller of Seller, and (iii) Lauri Vertrees, the current Operations Manager
+of Seller (collectively, the "Covered Employees"), shall provide the services
+specified therein.      4.06 Conduct of the Business Pending Closing. From and after the date
+hereof until the Closing, except (x) as required by applicable law, (y) as
+otherwise expressly contemplated by this Agreement, or (z) with the prior
+written consent of Purchaser:            (a) the Company shall, and Seller shall cause the Company to,
+conduct the Business only in the ordinary and usual course consistent with past
+practices;            (b) the Company shall, and Seller shall cause the Company to, use
+commercially reasonable efforts to (A) preserve the present business operations,
+organization and goodwill of the Company and its Subsidiaries, and (B) preserve
+the present relationships with customers, suppliers, licensors and licensees of
+the Company and its Subsidiaries; and            (c) the Company shall not, and Seller shall not permit the Company
+to:            (i) pay, discharge or satisfy any claims, liabilities or obligations
+      (absolute, accrued, contingent or otherwise), other than the payment,
+      discharge or satisfaction in the ordinary and usual course of business and
+      consistent with past practice of liabilities and obligations incurred in
+      the ordinary and usual course of business and consistent with past
+      practice;
+                                       11
+<PAGE>            (ii) borrow any amount or incur or become subject to any other
+      liabilities (absolute or contingent), other than trade payables in the
+      ordinary course of business;            (iii) declare or made any payment or distribution of cash or other
+      property to Seller or purchase or redeem, or make any agreements to
+      purchase or redeem, any of its equity securities;            (iv) issue, deliver, sell, pledge or encumber, or authorize, propose
+      or agree to the issuance, delivery, sale, pledge or encumbrance of, any
+      shares of capital stock or bonds or any other security (or any right to
+      acquire such capital stock or other security, including options) of the
+      Company or any of its Subsidiaries, or any right, options or warrants with
+      respect thereto;            (v) effect any recapitalization, reclassification or like change in
+      the capitalization of the Company or any of its Subsidiaries, or declare
+      or pay dividends on, or make other distributions in respect of, any of its
+      capital stock, or issue or authorize the issuance of any other securities
+      in respect of, in lieu of or in substitution for shares of its capital
+      stock, or repurchase, redeem or otherwise acquire, or modify or amend, any
+      shares of capital stock of the Company or any of its Subsidiaries or any
+      other securities thereof or any rights, warrants or options to acquire any
+      such shares or other securities;            (vi) cancel any debts owing to the Company or waive any claims or
+      rights, except in the ordinary course of business;            (vii) sell, transfer, or otherwise dispose of, any of the Assets;            (viii) dispose of, fail to take reasonable steps to protect, or
+      permit to lapse, any rights for the use of, any Intellectual Property, or
+      dispose of, fail to take reasonable steps to protect, or disclose to any
+      Person any Proprietary Information or Confidential Information;            (ix) make any change in any its methods of accounting or accounting
+      practices;            (x) write off as uncollectible any notes or accounts receivable,
+      other than in the ordinary course of business consistent with past
+      practice;            (xi) make any capital expenditures or capital expenditure
+      commitments;            (xii) enter into any transaction or series of related transactions
+      providing for payments in excess of $25,000 in the aggregate, whether or
+      not in the ordinary course of business;            (xiii) make any material change in the manner in which products or
+      services are developed or marketed;
+                                       12
+<PAGE>            (xiv) loan or advance any amount to, or make any payments to or
+      receive any payments from, or sell, transfer or lease any of its assets
+      to, any Affiliate, except in the ordinary course of business consistent
+      with past practice;            (xv) discharge or satisfy any Encumbrance or pay any obligation or
+      liability (absolute or contingent), other than current liabilities paid in
+      the ordinary course of business consistent with past practices;            (xvi) make any change in the cash management or working capital
+      management of the Company and its Subsidiaries other than in the ordinary
+      course of business;            (xvii) (A) terminate, cancel or request any material change in, or
+      agree to any material change in, any Subsisting Contract, or (B) enter
+      into any contract which would constitute a Subsisting Contract as defined
+      herein, other than in the ordinary course of business consistent with past
+      practices;            (xviii) adopt, agree to adopt, or make any announcement regarding
+      the adoption of (i) any new pension, retirement or other employee benefit
+      plan, program or policy or (ii) any amendment to any existing plan, policy
+      or program;            (xix) increase the compensation, bonuses or benefits of any
+      employee, officer, director, or consultant of the Company or any of its
+      Subsidiaries, other than annual increases in the ordinary course of
+      business consistent with past practices at the regularly scheduled times;            (xx) amend or modify any of the organizational documents of the
+      Company;            (xxi) make any material election with respect to Taxes or make any
+      change in any such election;            (xxii) change its methods of accounting in effect at November 30,
+      2005, except as required by changes in GAAP as agreed to by the Company's
+      independent public accountants or as may be required by applicable law;            (xxiii) make any charitable contributions or pledges;            (xxiv) settle any pending Legal Proceeding to which the Company or
+      any of its Subsidiaries is a party, except as otherwise listed on Schedule
+      4.06(c)(xxiv); or            (xxv) suffer, authorize, agree or commit to take any of the actions
+      set forth in this subparagraph (c).      4.07 Publicity.
+           ---------            (a) Neither Purchaser, Seller nor the Company, nor any of their
+respective Subsidiaries, Affiliates or Representatives, shall issue any press
+release or public announcement concerning this Agreement or the transactions
+contemplated hereby without obtaining the prior
+                                       13
+<PAGE>written approval of each of the other parties hereto, unless, in the reasonable
+and good faith judgment of Purchaser or Seller, as the case may be, upon the
+advice of counsel, disclosure is otherwise required by applicable law or by the
+applicable rules of any stock exchange on which either Cyber Digital or Seller
+lists securities; provided, that, to the extent required by applicable law, the
+party intending to make such release shall use its commercially reasonable
+efforts consistent with applicable law to consult with the other party with
+respect to the content thereof. The parties hereto agree that the initial press
+release to be issued in connection with the transactions contemplated hereby
+shall be in a form mutually agreed by them.            (b) In addition, Purchaser and Seller shall cooperate with each
+other in preparing and making one or more internal announcements to the
+employees of the Company designed to provide information to such employees with
+respect to, among other things, transition issues, in order to promote a smooth
+transition.      4.08 Negotiations. From and after the date hereof and until the earlier to
+occur of the Closing or the termination of this Agreement pursuant to the terms
+hereof, Seller shall not, and shall not permit or cause any of its Subsidiaries,
+the officers and directors of Seller, or any Persons controlled by Seller or any
+of its Subsidiaries, or any of their respective Representatives, to, directly or
+indirectly, encourage, solicit, engage in discussions or negotiations with, or
+provide any information to, any Person or group (other than Purchaser or any of
+Purchaser's Representatives) concerning any merger involving the Company, sale
+of all or any portion(s) of the consolidated assets of the Company, sale of the
+shares of capital stock of the Company or any of its Subsidiaries or any other
+transaction similar to the transactions contemplated hereby. Seller shall
+promptly communicate to Purchaser any inquiries or communications concerning any
+such transaction which Seller or its Subsidiaries may receive.      4.09 Notification of Developments. Seller shall give reasonably prompt
+notice to Purchaser, and Purchaser shall give reasonably prompt notice to
+Seller, of the occurrence or non-occurrence of any event, the occurrence or
+non-occurrence of which, as the case may be, would cause or be reasonably
+expected to cause any condition set forth in Article VII not to be satisfied
+from the date hereof to the Closing; provided, however, that the delivery of any
+notice pursuant to this Section 4.09 shall not limit or otherwise affect the
+remedies available hereunder to a party receiving such notice or the
+representations and warranties of the parties contained herein, or the
+conditions to the obligations of the parties hereto.      4.10 Access to Information; Cooperation; Financial Statements.
+           --------------------------------------------------------            (a) During the period commencing on the date hereof and ending on
+the earlier of (i) the Closing Date and (ii) the date on which this Agreement is
+terminated pursuant to the terms hereof, upon reasonable prior notice to Seller
+or the Company, Purchaser shall be entitled, through its Representatives, to
+reasonable access (subject to restrictions imposed by requirements of applicable
+Law) during normal business hours to the properties, businesses and operations
+of the Company and its Subsidiaries and such examination of the books and
+records of the Company and its Subsidiaries (including, without limitation, tax
+returns, work papers, financial operating data, monthly financial statements and
+other documents and information relating to the Company and its Subsidiaries) as
+it reasonably requests and, if the Company or
+                                       14
+<PAGE>Seller so requests, Purchaser or its Representatives shall be accompanied by a
+Representative of the Company or Seller. In addition, the Company shall, and
+shall cause its Representatives to, permit Purchaser's senior officers to meet,
+upon reasonable notice and during normal business hours, with the chief
+financial officer and other officers of the Company responsible for the
+Company's financial statements and internal controls to discuss such matters as
+Purchaser may deem necessary or appropriate, among other things, in order to
+enable Purchaser, following the Closing, to satisfy its obligations under
+applicable law. Notwithstanding anything herein to the contrary, (i) no
+investigation or receipt of information pursuant to this Section 4.10(a) shall
+qualify any representation or warranty of Seller or the conditions to the
+obligations of Purchaser, (ii) no such investigation or examination pursuant to
+this Section 4.10(a) shall be permitted to the extent that it would require
+Seller or the Company or any of their Subsidiaries to provide any information or
+access that Seller or the Company reasonably believes could violate any
+applicable law, or conflict with any confidentiality obligations to which
+Seller, the Company or any of their Subsidiaries is bound or cause the
+forfeiture of any attorney-client privilege and (iii) prior to the Closing,
+without the prior written consent of a Representative of Seller or the Company
+(who shall be identified in writing to Purchaser as the Representative
+contemplated by this provision), (x) Purchaser shall not contact any suppliers
+to, or customers of, the Company or any of its Subsidiaries in respect of this
+Agreement or the transactions contemplated hereby, and (y) Purchaser shall have
+no right to perform invasive or subsurface investigations of the properties or
+facilities of the Company or any of its Subsidiaries.            (b) Without limiting the generality of the foregoing, (i) Seller
+shall prepare and deliver to Purchaser, as promptly as practicable, unaudited
+financial statements of the Company for the year ended November 30, 2006,
+prepared by Seller consistent with its usual and historical practice, and (ii)
+Seller shall use its commercially reasonable efforts to cooperate with Purchaser
+and to provide such assistance as Purchaser may reasonably request to enable
+Purchaser, from and after the Closing, to prepare such financial statements for
+Purchaser and its Subsidiaries (including the Company, following the Closing) as
+may be required by applicable law or by the applicable rules of any stock
+exchange on which Cyber Digital lists securities.      4.11 Use of Certain Assets. From and after the Closing, (a) Purchaser
+shall allow Seller to continue using certain assets owned by the Company at the
+Existing Office, as set forth on Schedule 4.11, for no additional consideration,
+and (b) Purchaser shall allow Seller to continue using the three (3) offices
+currently occupied by the Covered Employees, and the related amenities,
+currently available at the Existing Office, and in consideration therefor,
+Seller shall pay Purchaser 50% of the costs associated with the use of such
+offices and amenities.      4.12 Regulatory Approvals.
+           --------------------            (a) Purchaser shall make or cause to be made all applications,
+notifications and/or filings required of it in connection with the Regulatory
+Approvals as promptly as practicable and, in any event, within five (5) business
+days after the date of this Agreement, and Seller shall cooperate with Purchaser
+as may be necessary in connection with each such application, notification
+and/or filing, including by furnishing to Purchaser any information in the
+possession of Seller or the Company, as the case may be, required for any such
+application and/or filing.
+                                       15
+<PAGE>            (b) Each of Purchaser and Seller, as the case may be, shall use
+commercially reasonable efforts to resolve such objections, if any, as may be
+asserted by any Governmental Authority with respect to the transactions
+contemplated by this Agreement in connection with the Regulatory Approvals. In
+connection therewith, if any Legal Proceeding is instituted (or threatened to be
+instituted) challenging any transaction contemplated by this Agreement in
+connection with the Regulatory Approvals, each of Purchaser and Seller shall
+cooperate and use commercially reasonable efforts to contest and resist any such
+Legal Proceeding, and to have vacated, lifted, reversed, or overturned any
+order, whether temporary, preliminary or permanent, that is in effect and that
+prohibits, prevents, or restricts consummation of the transactions contemplated
+by this Agreement. In connection with the foregoing, each of Purchaser and
+Seller shall use commercially reasonable efforts to take promptly any and all
+steps necessary to avoid or eliminate each and every impediment arising in
+connection with the Regulatory Approvals that may be asserted by any
+Governmental Authority, so as to enable the parties to close the transactions
+contemplated by this Agreement as expeditiously as possible.                                    ARTICLE V                    REPRESENTATIONS AND WARRANTIES OF SELLER
+                    ----------------------------------------      Simultaneously with the execution and delivery of this Agreement, Seller
+shall deliver to Purchaser a disclosure schedule with numbered sections
+corresponding to the relevant sections of this Agreement (the "Schedules").
+Except as otherwise set forth in the Schedules, Seller represents and warrants
+to Purchaser as follows:            5.01 Organization. The Company is duly organized, validly existing
+and in good standing under the laws of the State of New York. The Company has no
+Subsidiaries. The Company has all requisite power and authority to enable it to
+own, lease or otherwise hold its properties and assets and to carry on its
+business as presently conducted. The Company is duly qualified and in good
+standing to do business in each jurisdiction in which the nature of its business
+or the ownership, leasing or holding of its properties makes such qualification
+necessary, except where the absence of such qualifications, individually or in
+the aggregate, would not have, and would not reasonably be expected to have, a
+Material Adverse Effect. The Company maintains a company minute book (and other
+similar records of organizational or management proceedings), copies of each of
+which have previously been provided to Purchaser.            5.02 Shares and Related Matters; No Investments.
+                 ------------------------------------------            (a) Seller owns in the aggregate 100% of the issued and outstanding
+shares of the Common Stock, which constitute 100% of the issued and outstanding
+shares of the capital stock of the Company. As of the Closing (but immediately
+prior to the execution of the New Note Documents), the Shares will be validly
+issued, fully paid and non-assessable, will be free and clear of all
+Encumbrances (other than any Encumbrances created by the Existing Note
+Documents), and will not be subject to any pre-emptive rights or other similar
+rights of shareholders of the Company. There are no shares of preferred stock of
+the Company outstanding.
+                                       16
+<PAGE>            (b) The Company has no outstanding instruments convertible into or
+exchangeable for any capital stock in the Company or containing any profit
+participation features, nor does it have outstanding any rights or options to
+subscribe for or purchase any instruments convertible into or exchangeable for
+any capital stock in the Company. The Company is not subject to any obligation
+(contingent or otherwise) to repurchase or otherwise acquire or retire any
+capital stock or any warrants, options or other rights to acquire any capital
+stock in the Company.            (c) There are no preemptive rights or rights of refusal with respect
+to the sale of the Shares hereunder. Assuming the truth and accuracy of the
+representations and warranties contained in Section 6.08, the offer, sale and
+issuance of the Shares as contemplated by this Agreement are exempt from the
+registration requirements of the Securities Act and any applicable U.S. state
+securities laws, and neither Seller nor any authorized agent acting on its
+behalf has taken or will take any action hereafter that would cause the loss of
+such exemptions.            (d) The Company does not own or hold any Investment in any Person.      5.03 Authorization. Seller has all requisite power and authority to enter
+into this Agreement and the other agreements, instruments, documents and
+certificates (collectively, the "Related Documents") to be executed and
+delivered by Seller in connection with the transactions contemplated hereby and
+thereby, and to consummate the transactions contemplated hereby and thereby. All
+corporate acts and other proceedings required to be taken by Seller or the
+Company to authorize the execution, delivery and performance of this Agreement
+and the Related Documents to which it is a party, and the consummation of the
+transactions contemplated hereby and thereby, have been duly and properly taken.      5.04 Valid and Binding. This Agreement constitutes (and, when executed and
+delivered at Closing, each Related Document will constitute) a valid and binding
+obligation of Seller, enforceable against Seller in accordance with its terms,
+except that (a) such enforcement may be limited by or subject to any bankruptcy,
+insolvency, reorganization, moratorium or similar laws now or hereafter in
+effect relating to or limiting creditors' rights generally and (b) the remedy of
+specific performance and injunctive and other forms of equitable relief are
+subject to certain equitable defenses and to the discretion of the court before
+which any proceeding therefor may be brought.      5.05 Consents and Approvals of Governmental Authorities. No consent,
+approval or authorization of, or declaration, filing or registration with, any
+Governmental Authority is required to be obtained by Seller in connection with
+the execution, delivery and performance of this Agreement or the consummation of
+the transactions contemplated hereby, except for (a) informational filings with
+the SEC and as may be required under state securities or "blue sky" laws and (b)
+the Regulatory Approvals.      5.06 No Violation. Except as set forth on Schedule 5.06, the execution,
+delivery and performance of this Agreement and each Related Document by Seller,
+and the consummation of the transactions contemplated hereby and thereby, and
+the compliance by Seller with the terms hereof and thereof, does not and will
+not contravene, conflict with, or result in any violation of or default under
+(with or without notice or lapse of time, or both), or give rise to a right of
+                                       17
+<PAGE>termination, cancellation, modification or acceleration of any obligation or
+loss of any benefit under, result in the creation or imposition of any
+Encumbrance of any kind upon any of the Assets or properties of Seller under, or
+impair any of the Company's rights or alter the rights or obligations of any
+third party under, any provision of: (a) any Subsisting Contract; (b) the
+Certificate of Incorporation or By-laws of Seller; or (c) any judgment, order,
+decree, statute, law, ordinance, rule or regulation applicable to any of the
+Assets or properties of Seller. Schedule 5.06 hereto sets forth all necessary
+notices, consents, waivers and approvals of parties or third-party beneficiaries
+to any Subsisting Contracts as are required thereunder in connection with the
+execution, delivery and performance by Seller of this Agreement and the Related
+Document and the consummation of the transactions contemplated hereby and
+thereby, or for any such Subsisting Contract to remain in full force and effect
+without limitation, modification or alteration after the execution, delivery and
+performance of this Agreement and the Related Document and the consummation of
+the transactions contemplated hereby and thereby, so as to preserve all rights
+of, and benefits to, the Company under such Subsisting Contracts. Following the
+Closing Date, the Company will be permitted to exercise all of its rights under
+the Subsisting Contracts without the payment of any additional amounts or
+consideration other than any ongoing obligations, fees, royalties or payments
+which the Company would otherwise be required to satisfy, perform or pay
+pursuant to the terms of such Subsisting Contracts had the transactions
+contemplated by this Agreement not occurred.      5.07 Financial Statements.
+           --------------------            (a) Seller has furnished or made available to Purchaser copies of
+the interim unaudited financial statements of the Company (the "Unaudited
+Financial Statements") for the nine months ending August 31, 2006 (the "Interim
+Financial Statement Date") and the audited consolidated financial statements of
+Seller (the "Audited Financial Statements" and, together with the Unaudited
+Financial Statements, the "Financial Statements") for the fiscal years ended
+November 30, 2005 and November 30, 2004. The Financial Statements have been
+prepared by the Company or Seller on the basis of the books and records
+maintained in the ordinary course of business in a manner consistently used and
+applied throughout the periods involved. The Financial Statements fairly present
+the financial condition and operating results of the Company as of the dates,
+and for the periods, indicated therein, subject in the case of the Unaudited
+Financial Statements to normal year-end audit adjustments. Except as disclosed
+in the Financial Statements, the Company is not a guarantor or indemnitor of any
+indebtedness of any other Person, firm or corporation. The Company maintains and
+will continue to maintain a standard system of accounting established and
+administered in accordance with GAAP applied on a consistent basis during the
+periods involved.            (b) The Company has no liabilities except for (i) liabilities
+reflected in the Financial Statements and (ii) liabilities which have arisen
+after the Financial Statement Date in the ordinary course of business of the
+Company.      5.08 Interim Operations. Except as set forth on Schedule 5.08, since the
+Interim Financial Statement Date:
+                                       18
+<PAGE>            (a) the Business has been conducted by the Company only in the
+ordinary and usual course consistent with past practices;            (b) there has not occurred any change, event or circumstance that
+has had, or could reasonably be expected to have, a Material Adverse Effect;            (c) the Company has not:            (i) paid, discharged or satisfied any claims, liabilities or
+      obligations (absolute, accrued, contingent or otherwise), other than the
+      payment, discharge or satisfaction in the ordinary and usual course of
+      business and consistent with past practice of liabilities and obligations
+      incurred in the ordinary and usual course of business and consistent with
+      past practice;            (ii) borrowed any amount or incurred or become subject to any other
+      liabilities (absolute or contingent), other than trade payables in the
+      ordinary course of business, except as set forth on Schedule 5.08(c)(ii);            (iii) declared or made any payment or distribution of cash or other
+      property to Seller or purchased or redeemed, or made any agreements to
+      purchase or redeem, any of its equity securities;            (iv) issued, delivered, sold, pledged or encumbered, or authorized,
+      proposed or agreed to the issuance, delivery, sale, pledge or encumbrance
+      of, any shares of capital stock or bonds or any other security (or any
+      right to acquire such capital stock or other security, including options)
+      of the Company or any of its Subsidiaries, or any right, options or
+      warrants with respect thereto;            (v) effected any recapitalization, reclassification or like change
+      in the capitalization of the Company or any of its Subsidiaries, or
+      declared or paid dividends on, or made other distributions in respect of,
+      any of its capital stock, or issued or authorized the issuance of any
+      other securities in respect of, in lieu of or in substitution for shares
+      of its capital stock, or repurchased, redeemed or otherwise acquired, or
+      modified or amended, any shares of capital stock of the Company or any of
+      its Subsidiaries or any other securities thereof or any rights, warrants
+      or options to acquire any such shares or other securities;            (vi) canceled any debts owing to the Company or waived any claims or
+      rights;            (vii) sold, transferred, or otherwise disposed of, any of the
+      Assets;            (viii) disposed of, failed to take reasonable steps to protect, or
+      permitted to lapse, any rights for the use of, any Intellectual Property,
+      or disposed of, failed to take reasonable steps to protect, or disclosed
+      to any Person any Proprietary Information or Confidential Information;            (ix) made any change in any its methods of accounting or accounting
+      practices;
+                                       19
+<PAGE>            (x) written off as uncollectible any notes or accounts receivable,
+      other than in the ordinary course of business consistent with past
+      practice;            (xi) made any capital expenditures or capital expenditure
+      commitments in excess of $10,000 individually or $25,000 in the aggregate,
+      except as set forth on Schedule 5.08(c)(xi);            (xii) entered into any transaction or series of related transactions
+      providing for payments by or to the Company in excess of $25,000 in the
+      aggregate, whether or not in the ordinary course of business;            (xiii) made any change in the manner in which products or services
+      have been developed or marketed;            (xiv) had any labor dispute or received notice of any grievance with
+      respect thereto;            (xv) loaned or advanced any amount to, or made any payments to or
+      received any payments from, or sold, transferred or leased any of its
+      assets to, any Affiliate, except in the ordinary course of business;            (xvi) discharged or satisfied any Encumbrance or paid any obligation
+      or liability (absolute or contingent), other than current liabilities paid
+      in the ordinary course of business consistent with past practices;            (xvii) made any change in the cash management or working capital
+      management of the Company other than in the ordinary course of business;            (xviii) (A) terminated, canceled or requested any material change
+      in, or agreed to any material change in, any Subsisting Contract, or (B)
+      entered into any contract which would constitute a Subsisting Contract as
+      defined herein, other than in the ordinary course of business consistent
+      with past practices, in either case, other than as set forth on Schedule
+      5.08(c)(xviii);            (xix) adopted, agreed to adopt, or made any announcement regarding
+      the adoption of (A) any new pension, retirement or other employee benefit
+      plan, program or policy or (B) any amendment to any existing plan, policy
+      or program;            (xx) increased the compensation, bonuses or benefits of any
+      employee, officer, director, or consultant of the Company or any of its
+      Subsidiaries, other than annual increases in the ordinary course of
+      business consistent with past practices at the regularly scheduled times,
+      other than as set forth on Schedule 5.08(c)(xx);            (xxi) amended or modified any of the organizational documents of the
+      Company;
+                                       20
+<PAGE>            (xxii) made any material election with respect to Taxes or made any
+      change in any such election;            (xxiii) made any change in its methods of accounting in effect at
+      November 30, 2005, except as required by changes in GAAP as agreed to by
+      the Company's independent public accountants or as required by applicable
+      law;            (xxiv) made any charitable contributions or pledges, other than as
+      set forth on Schedule 5.08(c)(xxiv);            (xxv) settled any Legal Proceeding to which the Company is or was a
+      party, other than as set forth on Schedule 5.08(c)(xxv); or            (xxvi) suffered or agreed to take any of the actions set forth in
+      this subparagraph (c);            (d) the Business has been conducted by the Company only in the
+ordinary and usual course consistent with past practices;            (e) the Company has taken no steps to seek protection pursuant to
+any bankruptcy law, Seller has no reason to believe that any creditors of the
+Company intend to initiate involuntary bankruptcy proceedings against the
+Company, and Seller has no knowledge of any fact which would reasonably lead a
+creditor to do so; and            (f) none of the Assets has suffered any damage, destruction or
+casualty loss (as a result of fire, explosion or otherwise), whether or not
+covered by insurance.      5.09 Taxes.
+           -----            (a) Except as disclosed in Schedule 5.09(a): (i) the Company has
+timely filed all Tax Returns that it was required to file under all applicable
+laws and regulations on or before November 30, 2006 (such date, the "Financial
+Statement Date"); (ii) all such Tax returns were correct and complete and were
+prepared in compliance with all applicable laws and regulations; and (iii) the
+Company has timely paid all Taxes required to be paid on or before the Financial
+Statement Date. The Company has established, on or before the Closing Date, an
+adequate reserve on its books and financial records for the payment of all
+accrued but unpaid Taxes.            (b) There are no ongoing Audits of the Company and the Company has
+not been notified, formally or informally, by any Tax Authority, nor is any
+Seller otherwise aware, that any such Audit is contemplated, threatened or
+pending, except as disclosed in Schedule 5.09(b).            (c) There are no Legal Proceedings pending or, to the knowledge of
+Seller, threatened, against the Company by any Tax Authority for any past due
+Taxes with respect to which the Company would be liable, except as disclosed in
+Schedule 5.09(c). There has been no waiver or request for a waiver of any
+applicable statute of limitations nor any consent or request
+                                       21
+<PAGE>for the consent for the extension of the time for the assessment of any Tax
+against the Company, except as disclosed in Schedule 5.09(c).            (d) There are no Encumbrances for Taxes (other then Taxes not yet
+due and payable) upon any property or assets of the Company, except as disclosed
+on Schedule 5.09(d).            (e) No claim has ever been received from an authority in a
+jurisdiction where the Company does not file Tax Returns that the Company is or
+may be subject to taxation by that jurisdiction.            (f) The Company is not a party to or bound by any Tax sharing or
+allocation agreement or similar contract or assignment or any agreement that
+obligates it to make any payment computed by references to the Taxes, taxable
+income or taxable losses of any other person. The Company is not liable for the
+Taxes of any person for any reason (including without limitation any liability
+arising under Treasury Regulation section 1.1502-6, or liability as a transferee
+or successor).            (g) Except as disclosed on Schedule 5.09(g), the Company will not be
+required to include any item of income in, or exclude any item of deduction
+from, taxable income for any Tax period after the Closing as a result of any (i)
+change in accounting method under Section 481 of the Code (or any analogous or
+comparable provision of U.S. state or local or non-U.S. Tax law), (ii) existing
+written agreement with a Tax authority with regard to the Tax liability of
+Company for any period prior to the Closing, (iii) deferred intercompany gain or
+excess loss account described in Treasury Regulations under section 1502 of the
+Code (or any corresponding or similar provision of state, local or non-U.S.
+Income Tax law) arising from any transaction that occurred prior to the Closing,
+(iv) installment sale or open transaction disposition made prior to the Closing,
+or (v) prepaid amount received on or prior to the Closing.            (h) The Company is not a party to any joint venture, partnership or
+other written arrangement or contract which would be treated as a partnership
+for U.S. Federal income tax purposes for any period for which the statute of
+limitations for any Tax on the income therefrom has not expired.            (i) Except as disclosed on Schedule 5.09(i), the Company has not
+engaged in any transaction for which their participation is required to be
+disclosed under Treasury Regulation section 1.6011-4.            (j) Except as disclosed on Schedule 5.09(j), the Company has not
+made any payments, is not obligated to make any payments, and is not a party to
+any agreement or other arrangement that would obligate it to make any payments
+that would not be deductible under Section 280G of the Code.      5.11 Condition of Property. All Tangible Property of the Company is
+maintained in good operating condition, working order and repair, reasonable
+wear and tear excepted, and all such Tangible Property is adequate for the uses
+to which it is being put. None of such Tangible
+                                       22
+<PAGE>Property is in need of replacement, maintenance or repairs except for ordinary,
+routine and immaterial maintenance and repairs, the aggregate cost of which is
+not material.      5.12 Contracts and Commitments.
+           -------------------------            (a) Schedule 5.12(a) lists each Subsisting Contract (copies of which
+have heretofore been delivered to Purchaser) and sets forth and describes in
+reasonable detail all currently effective oral agreements and commitments, if
+any, to which the Company is a party. (i) Each such Subsisting Contract is in
+full force and effect, and constitutes a valid and binding agreement of each of
+the parties thereto, enforceable in accordance with its terms; (ii) no such
+Subsisting Contract has been breached in any material respect, canceled or
+repudiated by the Company or, to Seller's knowledge, by any other party thereto;
+(iii) no such other party has indicated in writing or orally to Seller or the
+Company that it will stop or decrease the rate of business done with the
+Company, or that it desires to renegotiate its arrangements with the Company;
+(iv) the Company has performed in all material respects all obligations required
+to be performed by it in connection with such Subsisting Contracts, is not in
+receipt of any claim of default under any such Subsisting Contract, and is not
+in possession of any information that would reasonably indicate that any such
+claim or default is or may be forthcoming; and (v) the Company has no present
+expectation or intention of not fully performing any obligation pursuant to any
+such Subsisting Contract.            (b) Schedule 5.12(b) hereto contains an accurate and complete list
+of all Tangible Property Leases included in the Business. All such leases are
+valid, binding and enforceable against each of the parties thereto in accordance
+with their terms. Such leases are in full force and effect; with respect to
+each, to the knowledge of Seller, there are no existing defaults, and there is
+no event which (whether with or without notice, lapse of time or the happening
+or occurrence of any other event) would constitute a default thereunder of a
+party thereto.      5.13 Title to Assets. The Company has good and marketable title to, or a
+valid leasehold interest in, all of the properties and assets used by it, which
+are set forth on Schedule 5.13 (the "Assets"), free and clear of all
+Encumbrances, except as set forth on Schedule 5.13. The items of Tangible
+Property of the Company are in good operating condition in all material respects
+and are fit for use in the ordinary course of business. The Company owns, or has
+a valid leasehold or other interest in, and after the Closing the Company will
+continue to own, or have a valid leasehold or other interest in, all assets
+necessary for the conduct of the Business as presently conducted by the Company
+and to permit Acquisition Sub (through the Company) to continue to conduct the
+Business in all respects in substantially the same manner as the Business has
+been conducted through the Closing Date, except as set forth on Schedule 5.13.      5.14 Insurance. The Company maintains policies of fire and casualty,
+liability and other forms of insurance in such amounts, with such deductibles
+and against such risks and losses, as are customary for companies engaged in
+businesses similar to the Business to protect the Business, the Assets, and the
+employees, properties and operations of the Company and will continue such
+insurance in effect through the Closing. These policies are provided through
+coverage secured by Seller for assets owned by Seller, and will not be available
+to the Company
+                                       23
+<PAGE>after the acquisition of the Shares by Acquisition Sub and the consummation of
+the transactions contemplated hereby.      5.15 Employees and Labor Relations.
+           -----------------------------            (a) (i) There is no labor strike or work stoppage or lockout
+actually pending, or to the knowledge of Seller, threatened, against or
+materially affecting the Company; during the past three years there has not been
+any such action actually pending against the Company; and, to the knowledge of
+Seller, there has not been any such action threatened against or materially
+affecting the Company; (ii) none of the employees of the Company is represented
+by a union or subject to a collective bargaining agreement and, to the knowledge
+of Seller, no union organizational campaign is in progress with respect to the
+employees of the Company and no question concerning representation exists
+respecting such employees; and (iii) the Company is, and has been, in compliance
+in all material respects with all applicable laws respecting employment and
+employment practices, terms and conditions of employment and wages and hours and
+is not engaged in any unfair labor practice. Neither the execution and delivery
+of this Agreement nor the transactions contemplated hereby, whether alone or in
+connection with any other event, will (x) result in any payment (including any
+severance, unemployment compensation or golden parachute payment) becoming due
+to any employee, former employee, consultant or former consultant, (ii) increase
+any benefits otherwise payable to any such persons, or (iii) result in the
+acceleration of the time of payment or vesting of any such benefits to any
+extent.            (b) Schedule 5.15(b) hereto contains the names of all persons
+currently employed by the Company in the Business (the "Employees") and accurate
+details of the material terms of their employment, including an indication of
+which employees are part-time or temporary employees, current salary,
+commission, bonus entitlement and profit share arrangements both contractual and
+discretionary, life insurance, medical or permanent health insurances, date of
+commencement of employment, and description of their function in the Business.            (c) A full copy of the standard terms of the employment of the
+Employees and a copy of the terms of employment of each Employee employed on
+terms other than the standard terms is attached hereto as Schedule 5.15(c).            (d) There are no loans outstanding from the Company to any of the
+Employees.            (e) The Company is, and has been, in compliance with the terms of
+employment of each of the Employees, and so far as Seller is aware, no Employee
+is in breach of his or her employment relationship with the Company.            (f) None of the Employees has given or received notice of
+termination of his or her employment with the Company.
+                                       24
+<PAGE>            (g) None of the Employees is the subject of any material
+disciplinary action nor is any Employee engaged in any grievance procedure and
+there is no matter or fact in existence which can be reasonably foreseen as
+likely to give rise to the same.      5.16 Licenses; Permits. The Company has duly obtained and now holds all
+material licenses, franchises, permits and similar authorizations issued or
+granted by any Governmental Authority which are necessary or desirable for the
+conduct of the Business by the Company in the States of New York, New Jersey and
+Pennsylvania. The Company has complied in all material respects with all
+requirements in connection therewith, and the Company is not in default in any
+material respect under any of such licenses, franchises, permits or other
+similar authorizations. Seller has no reason to believe that all franchises,
+permits, licenses, and any similar authorizations necessary for the conduct of
+the Business by the Company in the States of New York, New Jersey and
+Pennsylvania will not be granted in the ordinary course within a reasonable
+period of time after application therefor, and prior to the time the same is
+required under applicable law, and no necessary or desirable licenses,
+franchises, permits or other similar authorizations that the Company has applied
+for have been denied or are expected not to be granted by any Governmental
+Authority. The material licenses, franchises, permits and similar authorizations
+necessary for the conduct of the Business, other than the Regulatory Approvals,
+are set forth on Schedule 5.16.      5.17 Litigation.
+           ----------            (a) There is no Legal Proceeding pending or, to the knowledge of
+Seller, threatened (or, to the knowledge of Seller, and except as set forth on
+Schedule 5.17(a), any valid basis for any of the foregoing):                  (i) which is or may be brought against or which involves the
+            Company or the Business or which arises from any act or omission by
+            any present or former officer, director, agent or employee of or the
+            Company;                  (ii) which questions or challenges the validity of, or seeks
+            damages or equitable relief on the basis of, this Agreement or any
+            action taken or to be taken by Seller pursuant to this Agreement or
+            in connection with the transactions contemplated hereby; or                  (iii) which might affect the right of Acquisition Sub after
+            the Closing Date to own the Shares or to conduct the Business as
+            presently conducted;            (b) Seller knows of no facts that could reasonably be expected to
+serve as the basis for any Legal Proceeding against the Company, or Acquisition
+Sub upon its acquisition of the Shares as contemplated hereby, or any of their
+respective present or former directors, officers, or employees, affecting,
+involving or relating to the Business or the Assets.            (c) No Governmental Authority has challenged or questioned the legal
+right of the Company to conduct its operations as presently or previously
+conducted.
+                                       25
+<PAGE>      5.18 Court Orders, Decrees, and Laws.
+           -------------------------------            (a) There is no outstanding or, to the knowledge of Seller,
+threatened order, writ, injunction, or decree of any court, Governmental
+Authority, or arbitration tribunal against the Company affecting, involving or
+relating to the Business. The Company is not in violation of any applicable
+federal, state or local law, regulation, ordinance, zoning requirement,
+governmental restriction, order, judgment or decree affecting, involving or
+relating to the Business except where such noncompliance has not had, and could
+not reasonably be expected to have, a Material Adverse Effect, and the Company
+has not received any notices of any allegation of any such violation. The
+foregoing shall be deemed to include laws and regulations relating to the
+federal patent, copyright, and trademark laws, state trade secret an unfair
+competition laws, and to all other applicable laws, including equal opportunity,
+wage and hour, and other employment matters, and antitrust and trade
+regulations, safety (including OSHA), environmental (including wetlands),
+antipollution, building, zoning or health laws, ordinances and regulations.            (b) Schedule 5.18(b) sets forth, with respect to the Company, all
+material approvals, authorizations, certifications, consents, variances,
+permissions, licenses, or permits to or from, or filings, notices, or recordings
+or registrations to or with, any Governmental Authority (the "Authorizations"),
+including, without limitation, all Authorizations permitting the provision by
+the Company of local or long distance or international telecommunication
+services. The Authorizations constitute all approvals, authorizations,
+certifications, consents, variances, permissions, licenses, or permits to or
+from, or filings, notices, or recordings to or with, any Governmental Authority
+that are required for the ownership and use of the Assets and the conduct of the
+Business under federal, state, and local law, regulation, ordinance, or decree,
+except to the extent that the failure of the Company to have any of the
+foregoing would not have, and would not reasonably be expected to have, a
+Material Adverse Effect. Except as set forth on Schedule 5.18(b), the Company is
+in compliance, in all material respects, with all terms and conditions of such
+required Authorizations. All of the Authorizations are in full force and effect,
+and to Seller's knowledge, no suspension or cancellation of any of them is being
+threatened. Except as set forth on Schedule 5.18(b), the Company is in
+compliance, in all material respects, with all other applicable limitations,
+restrictions, conditions, standards, prohibitions, requirements, obligations,
+schedules, and timetables contained in those laws or contained in any law,
+regulation, code, plan, order, decree, judgment, notice, or demand letter
+issued, entered, promulgated, or approved thereunder relating to or affecting
+the Business.      5.19 Employee Benefit Plans.
+           ----------------------            (a) Schedule 5.19 hereto lists each employment, consulting, bonus,
+deferred compensation, incentive compensation, severance, termination or
+post-employment pay, disability, hospitalization or other medical, dental,
+vision, life or other insurance, stock purchase, stock option, stock
+appreciation, stock award, pension, profit sharing, 401(k) or retirement plan,
+agreement or arrangement, and each other employee benefit plan or arrangement
+arising out of the employment or the termination of employment of an employee,
+former employee, retiree or sales personnel by the Company (each a "Company
+Plan"). Each such Company Plan is
+                                       26
+<PAGE>sponsored by Seller and not sponsored by the Company. At Purchaser's request,
+Seller will work with Purchaser to transfer the Company's employees to a plan
+utilized by Purchaser.            (b) All Company Plans have been maintained in compliance with their
+terms and applicable law. There are no pending or, to the knowledge of Seller,
+threatened claims against the Company with respect to any Company Plan, except
+for claims for benefits in the ordinary course. Any Company Plan that provides
+medical or health benefits is fully insured. All contributions and premium
+payments required to be made with respect to any Company Plan have been timely
+made or properly accrued on the Financial Statements.      5.20 Accounts Receivable. All trade accounts receivable of the Company
+have arisen in the ordinary course of business in arms-length transactions for
+services that are collectible in the ordinary course of business. The Company
+has available in its records copies of invoices and of letters of agency with
+respect to all such accounts receivable.      5.21 Broker's Fees. No Person has acted, directly or indirectly, as a
+broker, finder or financial advisor for Seller in connection with the
+transactions contemplated by this Agreement, and neither the Company nor Seller
+has incurred any obligation or liability for any broker's, finder's or agent's
+fees or commissions in connection with the transactions contemplated by this
+Agreement.      5.22 Intellectual Property. The Company owns or has the right to use all
+Intellectual Property, free from burdensome restrictions or any licenses to or
+rights of others in respect thereof, which are used in or are necessary for the
+operation of their respective businesses as presently conducted or proposed to
+be conducted. Schedule 5.22 contains a true and correct list and brief
+description of all Intellectual Property owned by or licensed to the Company as
+of the date hereof. None of the Company's present or contemplated operations or
+other use of Intellectual Property infringes any patent, trademark, service
+mark, trade name, franchise, copyright, license or other right owned by any
+other Person, and there is no pending or, to Seller's knowledge, threatened
+claim or litigation against or affecting the Company contesting its right to
+engage in any such operation, or contesting the validity of any of the
+Intellectual Property, and to Seller's knowledge, there is no basis for any such
+charge or claim.      5.23 Investment Company Act. The Company is not an "investment company" or
+a company controlled by an "investment company" within the meaning of the
+Investment Company Act of 1940, as amended (the "Investment Company Act"). None
+of the sale of the Shares hereunder or the application of the proceeds thereof
+or repayment, or the consummation of the other transactions contemplated hereby
+or under any other Related Document, will violate any provision of the
+Investment Company Act or any rule, regulation or order of the SEC thereunder.      5.24 Bank Accounts; Powers of Attorney; Statutory Deposits. Schedule 5.24
+contains (a) a true and complete list of the names and locations of all banks,
+trust companies, securities brokers and other financial institutions at which
+the Company has an account or safe deposit box or maintains a banking,
+custodial, trading, trust or other similar relationship, (b) a true and complete
+list and description of each such account, box and relationship, and (c) a true
+and
+                                       27
+<PAGE>complete list of all signatories for each such account and box. Except as set
+forth on Schedule 5.24, the Company has not granted a power of attorney to any
+Person authorizing such Person to make any commitment on behalf of the Company.      5.25 Related Persons. Except as set forth on Schedule 5.25: (a) no
+officer, director or shareholder of the Company or any member of his or her
+immediate family or any Affiliate of any of the foregoing (collectively,
+"Related Persons") is indebted to the Company, nor is the Company indebted (or
+committed to make loans or extend or guarantee credit) to any of them, other
+than (i) for payment of salary for services rendered, (ii) reimbursement for
+reasonable expenses incurred on behalf of any Company, and (iii) for other
+employee benefits made generally available to all similarly situated employees;
+and (b) no Related Person has any direct or indirect ownership interest (i) in
+any products, services, facilities, software or other personal property or any
+real property owned, leased, licensed or used by the Company, (ii) in any Person
+with which the Company has a contractual relationship, or (iii) in any Person
+that competes with the Company. No Related Person is, directly or indirectly,
+interested in any Subsisting Contract.      5.26 Restrictions on Business Activities. Except as required by or
+pursuant to applicable Law, there is no judgment, order, decree, statute, law,
+ordinance, rule or regulation of any Governmental Authority binding upon the
+Company, its properties or the Assets which has the effect of prohibiting or
+materially impairing any Company from (a) acquiring any property or asset, (b)
+conducting any business in any location, (c) hiring any Person or consulting
+firm, or (d) declaring or paying any dividend or other distribution to its
+shareholders.      5.27 Disclosure. No representation or warranty in this Article V, in the
+Schedules or in any certificate or other Related Document furnished by Seller to
+Purchaser in connection with this Agreement contains or will contain any untrue
+statement of material fact or omits or will omit to state a material fact
+necessary to make the statements therein, in light of the circumstances in which
+they are made, not misleading.                                   ARTICLE VI                   REPRESENTATIONS AND WARRANTIES OF PURCHASER
+                   -------------------------------------------      Acquisition Sub and Cyber Digital hereby each represent and warrant to
+Seller as follows:      6.01 Organization. Each of Acquisition Sub and Cyber Digital is duly
+incorporated, validly existing and in good standing under the laws of the State
+of New York.      6.02 Authorization. Each of Acquisition Sub and Cyber Digital has all
+requisite power and authority to enter into this Agreement and the other Related
+Documents to be executed and delivered by it in connection with the transactions
+contemplated hereby, and to consummate the transactions contemplated hereby. All
+corporate acts and other proceedings required to be taken by each of Acquisition
+Sub and Cyber Digital to authorize the execution, delivery and performance of
+this Agreement and the Related Documents to which it is a party, and the
+consummation of the transactions contemplated hereby, have been duly and
+properly taken.
+                                       28
+<PAGE>      6.03 Valid and Binding. This Agreement constitutes (and, when executed and
+delivered at Closing, each Related Document will constitute) a valid and binding
+obligation of each of Acquisition Sub and Cyber Digital, enforceable against it
+in accordance with its terms, except that (a) such enforcement may be limited by
+or subject to any bankruptcy, insolvency, reorganization, moratorium or similar
+laws now or hereafter in effect relating to or limiting creditors' rights
+generally and (b) the remedy of specific performance and injunctive and other
+forms of equitable relief are subject to certain equitable defenses and to the
+discretion of the court before which any proceeding therefor may be brought.      6.04 Consents and Approvals of Governmental Authorities. No consent,
+approval or authorization of, or declaration, filing or registration with, any
+Governmental Authority is required to be obtained by Acquisition Sub or Cyber
+Digital in connection with the execution, delivery and performance of this
+Agreement or the consummation of the transactions contemplated hereby, except
+for (a) informational filings with the SEC and as may be required under state
+securities or "blue sky" laws and (b) the Regulatory Approvals.      6.05 Litigation. There is no Legal Proceeding pending or, to the knowledge
+of Acquisition Sub or Cyber Digital, threatened that questions or challenges the
+validity of, or seeks damages or equitable relief on the basis of, this
+Agreement or any action taken or to be taken by Acquisition Sub or Cyber Digital
+pursuant to this Agreement or in connection with the transactions contemplated
+hereby; nor to the knowledge of Acquisition Sub or Cyber Digital is there any
+valid basis for any such Legal Proceeding.      6.06 Disclosure. No representation or warranty in this Article VI or in
+any certificate or other Related Document furnished by Purchaser to Seller in
+connection with this Agreement contains or will contain any untrue statement of
+material fact or omits or will omit to state a material fact necessary to make
+the statements therein, in light of the circumstances in which they are made,
+not misleading.      6.07 Broker's Fees. No Person has acted, directly or indirectly, as a
+broker, finder or financial advisor for Acquisition Sub or Cyber Digital in
+connection with the transactions contemplated by this Agreement, and Purchaser
+has not incurred any obligation or liability for any broker's, finder's or
+agent's fees or commissions in connection with the transactions contemplated by
+this Agreement, except in connection with the New Note and the New Note
+Documents.      6.08 Securities Matters. Purchaser acknowledges and represents and
+warrants to Seller as follows:            (a) Purchaser is familiar with the Business and the Company.            (b) Purchaser has been advised that the Shares may not be sold,
+transferred, or otherwise disposed of except as provided herein, and understands
+that the Shares have not been registered under the Securities Act, or any state
+securities laws, in reliance on an exemption for private offerings or the fact
+that the Shares are not securities and, if the Shares are securities,
+                                       29
+<PAGE>Purchaser may not be able to resell such Shares unless registered under the
+Securities Act and any applicable state securities laws or unless an exemption
+from such registration is available.            (c) Purchaser is a "sophisticated investor" with substantial prior
+experience in business investments of the type described in this Agreement, and
+is aware of and familiar with the risks associated with the Business and the
+Company, and would qualify as an "accredited investor" as such is defined in
+Rule 501 of Regulation D, as enacted pursuant to Sections 3(b) and 4(2) of the
+Securities Act.            (d) Purchaser is acquiring the Shares for its own account, for
+investment only and with no present intention of distributing, reselling,
+pledging, or otherwise disposing of such Shares, or any portion thereof.            (e) Purchaser is familiar with the type of investment which the
+Shares constitute and has reviewed the acquisition of such Shares with its legal
+counsel and other advisors to the extent it deems necessary.            (f) Purchaser acknowledges that the Shares may have to be held
+indefinitely and that Purchaser can afford to do so, and to lose its entire
+investment in the Shares.            (g) Purchaser recognizes that there has been no public market for
+the Shares and that after its acquisition of the Shares, there will be no such
+market, and Purchaser understands that it cannot expect to be able to freely
+liquidate the Shares in case of emergency.            (h) Except as otherwise expressly set forth herein, no
+representations or warranties have been made to Purchaser by Seller or by any
+agent, employee, director or affiliate thereof and, in entering into the
+transactions contemplated by this Agreement, Purchaser is not relying upon any
+information other than the results of its own independent investigation.                                   ARTICLE VII                              CONDITIONS TO CLOSING      7.01 Conditions Precedent to the Obligations of Purchaser Hereunder. All
+obligations of Purchaser hereunder with respect to the purchase of the Shares
+are subject to the fulfillment, to the satisfaction of Purchaser and its legal
+counsel prior to or at the Closing, of each of the following conditions, except
+to the extent that Purchaser may waive any one or more thereof as permitted by
+applicable law:            (a) each of the representations and warranties of Seller contained
+in Article V hereof, the Schedules hereto and in all certificates and other
+documents delivered or to be delivered by Seller or the Company pursuant hereto
+or in connection with the transactions contemplated hereby, disregarding all
+qualifications and exceptions contained therein relating to materiality or
+Material Adverse Effect, shall be true, complete and accurate and correct in all
+material respects as of the date when made and at the Closing Date (or, if given
+as of a specific date, as of such date);
+                                       30
+<PAGE>            (b) the Company and Seller shall have performed and complied in all
+material respects with all agreements, obligations and conditions required by
+this Agreement to be performed or complied with by each of them on or prior to
+the Closing;            (c) no Legal Proceeding by any Governmental Authority or other
+Person shall have been instituted or threatened that seeks to restrain, enjoin,
+prevent the consummation or otherwise affect the transactions contemplated by
+this Agreement or which questions the validity or legality of the transactions
+contemplated hereby or the ability of Seller to transfer the Shares hereunder to
+Purchaser;            (d) Seller shall have delivered to Purchaser, or shall have caused
+to be delivered to Purchaser, each of the items required to be delivered to
+Purchaser in accordance with Section 3.02 hereof;            (e) there shall not have occurred any Material Adverse Effect since
+the date hereof;            (f) the Regulatory Approvals shall have been obtained and/or made;            (g) the transactions contemplated by the TSI Agreement shall have
+been consummated in accordance with the terms thereof;            (h) at the Closing Date (and immediately prior to the Closing), the
+Company shall have on its balance sheet (which shall be evidenced to Purchaser
+to its reasonable satisfaction) at least $100,000 in cash or cash equivalents,
+at least $62,407 in total property and equipment (based on the historical cost
+thereof), and no less than $(555,171) in net working capital (exclusive of
+$132,000 in deferred revenue), as described and set forth in Schedule 7.01(h);
+and            (i) Purchaser shall have received the resignations of each of the
+directors and officers of the Company in office immediately prior to the
+Closing.      7.02 Conditions Precedent to the Obligations of Seller Hereunder. All
+obligations of Seller hereunder with respect to the sale of the Shares are
+subject to the fulfillment, to the satisfaction of Seller and its legal counsel
+prior to or at the Closing, of each of the following conditions, except to the
+extent that Seller may waive any one or more thereof as permitted by applicable
+law:            (a) each of the representations and warranties of Purchaser
+contained in Article VI hereof and in all certificates and other documents
+delivered or to be delivered by Purchaser pursuant hereto or in connection with
+the transactions contemplated hereby, disregarding all qualifications and
+exceptions contained therein relating to materiality or material adverse effect,
+shall be true, complete and accurate and correct in all material respects as of
+the date when made and at the Closing Date (or, if given as of a specific date,
+as of such date);
+                                       31
+<PAGE>            (b) Purchaser shall have performed and complied in all material
+respects with all agreements, obligations and conditions required by this
+Agreement to be performed or complied with by it on or prior to the Closing;            (c) the transactions contemplated by the TSI Agreement shall have
+been consummated in accordance with the terms thereof;            (d) no Legal Proceeding by any Governmental Authority or other
+Person shall have been instituted or threatened that seeks to restrain, enjoin,
+prevent the consummation or otherwise affect the transactions contemplated by
+this Agreement or which questions the validity or legality of the transactions
+contemplated hereby or the ability of Purchaser to purchase the Shares hereunder
+from Seller; and            (e) Purchaser shall have delivered to Seller, or shall have caused
+to be delivered to Purchaser, each of the items required to be delivered to
+Seller in accordance with Section 3.03 hereof.                                  ARTICLE VIII           SURVIVAL OF REPRESENTATIONS AND WARRANTIES; INDEMNIFICATION
+           -----------------------------------------------------------      8.01 Survival of Representations and Warranties. All representations and
+warranties made by each party hereto in this Agreement or in the attached
+Schedules or in any exhibit or certificate delivered pursuant hereto shall
+survive the Closing hereunder and any investigation at any time made by or on
+behalf of any other party through the first anniversary of the Closing Date;
+provided, however, that the representations and warranties of Seller set forth
+in Sections 5.01, 5.02, 5.03, 5.04, 5.09 and 5.21, and the representations and
+warranties of Purchaser set forth in Sections 6.01, 6.02, 6.03 and 6.04, shall
+survive until the expiration of all applicable statutes of limitations
+(including all periods of extension, whether automatic or permissive).      8.02 Notice of Damages. If either party seeks indemnity hereunder (the
+"Indemnified Party"), the Indemnified Party shall give the other party from whom
+indemnity is sought hereunder (the "Indemnitor") prompt notice (hereinafter, the
+"Indemnification Notice") of any demands, claims, actions or causes of action
+(collectively, "Claims") asserted against the Indemnified Party. Failure to give
+such notice shall not relieve the Indemnitor of any obligations which the
+Indemnitor may have to the Indemnified Party under this Article VIII, except to
+the extent that such failure has materially adversely prejudiced the Indemnitor
+under the provisions for indemnification contained in this Agreement. For
+purposes of this Article VIII, Acquisition Sub or Cyber Digital, on the one
+hand, and Seller, on the other hand, shall be deemed to be the "Indemnified
+Party" or the "Indemnitor", as the case may be.      8.03 Agreements to Indemnify.
+           -----------------------            (a) Subject to the terms and conditions of this Article VIII, Seller
+covenants and agrees to indemnify, defend and hold harmless Acquisition Sub,
+Cyber Digital and their Affiliates (including any officer, director,
+stockholder, partner, member, employee, agent or representative of any thereof)
+(a "Purchaser Affiliate") from and against all assessments, losses,
+                                       32
+<PAGE>damages, liabilities, costs and expenses, including without limitation interest,
+penalties and reasonable fees and expenses of legal counsel chosen by
+Acquisition Sub, Cyber Digital or a Purchaser Affiliate (collectively,
+"Damages"), imposed upon or incurred by Acquisition Sub, Cyber Digital or any
+Purchaser Affiliate arising out of or in connection with or resulting from (i)
+any breach of any representation or warranty of, or non-fulfillment of any
+covenant or agreement of, Seller contained in or made pursuant to this Agreement
+or any Schedule hereto, or any certificate furnished or to be furnished to
+Purchaser hereunder or thereunder, or (ii) any of the matters described on
+Schedule 8.03(a) hereto; provided, that with respect to each such matter set
+forth on Schedule 8.03(a), Seller's indemnification obligations hereunder with
+respect thereto shall not exceed the amount set forth opposite such matter on
+such Schedule 8.03(a). Seller further covenants and agrees to indemnify, defend
+and hold harmless any Purchaser Affiliate and the Company from and against all
+Taxes for which Seller is responsible under Section 4.02(c) hereof to the extent
+that such Taxes exceed the reserve established therefor.            (b) Each of Acquisition Sub, Cyber Digital and, from and after the
+Closing, the Company, covenants and agrees to indemnify, defend and hold
+harmless Seller and its Affiliates (including any successor or assign, officer,
+director, stockholder, partner, member, employee, agent or representative
+thereof) ("Seller Affiliates") from and against all Damages imposed upon or
+incurred by such Indemnified Party arising out of or in connection with or
+resulting from any breach of any representation or warranty of, or
+non-fulfillment of any covenant or agreement of, Acquisition Sub or Cyber
+Digital contained in or made pursuant to this Agreement or any certificate or
+other instrument furnished or to be furnished to Seller hereunder or thereunder.            (c) The Indemnitor shall reimburse the Indemnified Party promptly
+after delivery of an Indemnification Notice certifying that the Indemnified
+Party has incurred Damages after compliance with the terms of this Article VIII,
+provided, however, that the Indemnitor shall have the right to contest any such
+Damages in good faith.      8.04 Conditions of Indemnification of Third Party Claims. The obligations
+and liabilities of an Indemnitor under Section 8.03 hereof with respect to
+Damages resulting from Claims by Persons not party to this Agreement shall be
+subject to the following terms and conditions:            (a) Promptly after delivery of an Indemnification Notice in respect
+of a Claim, and subject to paragraph (c) of this Section 8.04, the Indemnitor
+may elect, by written notice to the Indemnified Party, to undertake the defense
+thereof with counsel reasonably satisfactory to the Indemnified Party, at the
+sole cost and expense of Indemnitor. If the Indemnitor chooses to defend any
+claim, the Indemnified Party shall cooperate with all reasonable requests of the
+Indemnitor and shall make available to the Indemnitor any books, records or
+other documents within its control that are necessary or appropriate for such
+defense.            (b) In the event that the Indemnitor, within a reasonable time after
+receipt of an Indemnification Notice, does not so elect to defend such Claim,
+the Indemnified Party will have the right (upon further notice to the
+Indemnitor) to undertake the defense, compromise or settlement of such Claim for
+the account of the Indemnitor, subject to the right of the Indemnitor
+                                       33
+<PAGE>to assume the defense of such Claim pursuant to the terms of paragraph (a) of
+this Section 8.04 at any time prior to settlement, compromise or final
+determination thereof, provided, that the Indemnitor reimburses in full all
+costs of the Indemnified Party (including reasonable attorney's fees and
+expenses) incurred by it in connection with such defense prior to such
+assumption.            (c) Anything in this Section 8.04 to the contrary notwithstanding,
+(i) if the Indemnified Party believes there is a reasonable probability that a
+Claim may materially and adversely affect the Indemnified Party, the Indemnified
+Party shall have the right to participate in the defense, compromise or
+settlement of such Claim, provided that the Indemnitor shall not be liable for
+expenses of separate counsel of the Indemnified Party engaged for such purpose,
+and (ii) no Person who has undertaken to defend a Claim under Section 8.04(a)
+hereof shall, without the written consent of all Indemnified Parties, settle or
+compromise any Claim or consent to entry of any judgment which does not include
+as an unconditional term thereof the release by the claimant or the plaintiff of
+all Indemnified Parties from all liability arising from events which allegedly
+give rise to such Claim.      8.05 Pursuit of Claims; Limitation on Indemnification. Any breach of any
+representation or warranty as to which a bona fide claim for indemnification has
+not been asserted in accordance with Section 8.03 hereof prior to 5:00 p.m., New
+York City time, on the date of the expiration of the applicable survival period
+set forth in Section 8.01 hereof may not be pursued, and hereby is irrevocably
+waived. If a claim for indemnification is made in accordance with Section 8.03
+prior to 5:00 p.m., New York City time, on the date of the expiration of the
+applicable survival period set forth in Section 8.01, then, notwithstanding such
+survival period, the representation or warranty applicable to such claim will
+survive until, but only with respect to any such claim that was timely made and
+only for the purpose of, the resolution of such claim by final, nonappealable
+judgment or settlement. In any event, the parties shall fully cooperate with
+each other and their respective counsel in accordance with Section 8.04 in
+connection with any such litigation, defense, settlement or other attempted
+resolution.      8.06 Limitation upon De Minimis Indemnification Obligations. Except for
+Claims for the indemnification of any Tax or any breach of Section 5.09 hereof,
+no party hereunder shall be required to indemnify the other party hereunder
+until such time as the Indemnified Party's actual Damages in the aggregate equal
+or exceed $50,000, at which time the Indemnifying Party shall be responsible for
+the entire amount of Damages incurred.                                   ARTICLE IX                                    RESERVED
+                                    --------                                    ARTICLE X                            MISCELLANEOUS PROVISIONS      10.01 Expenses. Except as otherwise provided herein, each of the parties
+hereto will pay its own expenses incurred by or on its behalf in connection with
+this Agreement or any transaction contemplated by this Agreement, whether or not
+such transaction shall be
+                                       34
+<PAGE>consummated, including without limitation all fees of its respective legal
+counsel and accountants.      10.02 Notices. All notices, requests, demands, consents or waivers and
+other communications required or permitted hereunder shall be in writing and
+shall be deemed to have been duly given if delivered by hand or by telecopy
+(with immediate confirmation), one (1) business day after being sent if by
+nationally recognized overnight courier or if mailed, then four days after being
+sent by certified or registered mail, return receipt requested with postage
+prepaid:            (a)   If to Acquisition Sub or Cyber Digital, to:                  CYBER DIGITAL, INC.
+                  400 Oser Avenue, Hauppauge, New York 11788
+                  Attention:  Chief Executive Officer
+                  Telecopy:  631-231-1446                  and to:                  KRAMER LEVIN NAFTALIS & FRANKEL LLP
+                  1177 Avenue of the Americas
+                  New York, New York  10036
+                  Attention:  Scott Rosenblum, Esq.
+                  Telecopy:  212-715-8000            (b)   If to Seller, to:                  ELEC COMMUNICATIONS CORP.
+                  75 South Broadway, Suite 302
+                  White Plains, NY  10601
+                  Attention:  Chief Executive Officer
+                  Telecopy:  914-682-0820                  and to:                  PRYOR CASHMAN SHERMAN & FLYNN LLP
+                  410 Park Avenue
+                  New York, New York 10022
+                  Attention: Eric M. Hellige, Esq.
+                  Telecopy: (212) 798-6380or, in each case, to such other Person or address as any party shall furnish to
+the other parties in writing.      10.03 Binding; No Assignment. This Agreement and all of the provisions
+hereof shall be binding upon and inure to the benefit of the parties hereto and
+their respective successors and
+                                       35
+<PAGE>permitted assigns. Neither this Agreement nor any of the rights, interests or
+obligations hereunder shall be assigned by any of the parties hereto without the
+prior written consent of the other party, except by operation of law; provided,
+however, that (i) Acquisition Sub or Cyber Digital may assign all or part of
+this Agreement or its rights hereunder (a) to a Purchaser Affiliate, (b) to
+Laurus in connection with the New Note and the New Note Documents and (c) from
+and after the Closing, to a Person not a party to this Agreement which acquires
+all or substantially all of the assets of Acquisition Sub or Cyber Digital and
+who assumes all of the obligations of Acquisition Sub or Cyber Digital
+hereunder, as the case may be, provided in each such case that no such
+assignment shall release Acquisition Sub or Cyber Digital, as the case may be,
+from its duties and obligations hereunder, and (ii) Seller may assign all or
+part of this Agreement or its rights hereunder to an Affiliate of Seller who
+assumes all of the obligations of Seller hereunder, provided that no such
+assignment shall release Seller from its duties and obligations hereunder.      10.04 Severability; Suspension Provisions. If in any jurisdiction, any
+provision of this Agreement or its application to any party or circumstance is
+restricted, prohibited or unenforceable, such provision shall, as to such
+jurisdiction, be ineffective only to the extent of such restriction, prohibition
+or unenforceability without invalidating the remaining provisions hereof and
+without affecting the validity or enforceability of such provision in any other
+jurisdiction or its application to other parties or circumstances. In addition,
+if any one or more of the provisions contained in this Agreement shall for any
+reason in any jurisdiction be held to be excessively broad as to time, duration,
+geographical scope, activity or subject, it shall be construed, by limiting and
+reducing it, so as to be enforceable to the extent compatible with the
+applicable law of such jurisdiction as it shall then appear.      10.05 Governing Law; Arbitration.            (a) All of the terms, conditions, and other provisions of this
+Agreement shall be interpreted and governed by reference to the laws of the
+State of New York, and any dispute arising therefrom and the remedies available
+shall be determined in accordance with such laws without giving effect to the
+principles of conflicts of law.            (b) Any disagreement, dispute, controversy or claim arising out of
+or relating to this Agreement, or the breach, termination or validity thereof (a
+"Dispute"), shall first be negotiated between the Chief Executive Officer of
+Seller or his designee (on behalf of Seller), on the one hand, and the Chief
+Executive Officer of Cyber Digital or his designee (on behalf of Purchaser), on
+the other hand, for attempted resolution by good faith negotiation within thirty
+(30) days after the parties have been notified that a Dispute exists.            (c) In the event that respective Chief Executive Officers (or their
+designees) are unable to resolve such Dispute within such thirty (30) day
+period, said Dispute shall be referred to binding arbitration for resolution in
+accordance with the Rules for Non-Administered Arbitration of Business Disputes,
+promulgated by the Center for Public Resources, 366 Madison Avenue, New York,
+New York 10019 ("CPR") and in effect as of the date of this Agreement.
+                                       36
+<PAGE>            (d) The arbitration shall be held in New York, New York unless
+Seller, on the one hand, and Purchaser, on the other hand, agree to an alternate
+location, in which case the arbitration shall be held at such alternate
+location. There shall be one arbitrator who shall be an attorney specializing in
+mergers and acquisitions law with at least fifteen (15) years of experience and
+who shall be appointed from a list of such attorneys maintained by the CPR or a
+member of the Judicial Panel of the Center of Public Resources for the
+resolution of disputes similar to the Dispute. Each party shall have the right
+to exercise two (2) peremptory challenges within 48 hours of being advised of
+the selection of an arbitrator.            (e) After consulting with the parties, the arbitrator shall devise
+procedures and deadlines for the arbitration with the goal of expediting the
+proceeding and completing the arbitration within sixty (60) days after the date
+of referral. There shall be no discovery other than limited document discovery
+which may be granted to the extent reasonable and necessary as determined in the
+discretion of the arbitrator. Neither party shall be entitled to discovery as a
+matter of right.            (f) The arbitrator shall render his or her decision and proscribe a
+fair and reasonable award within thirty (30) calendar days of the close of the
+arbitration proceeding. The arbitrator's award will state the sum of money, if
+any, and any equitable relief to be awarded with no statement of reasons. The
+parties shall pay their own costs, fees and expenses of the procedures set forth
+in this Section 10.05. The arbitrator shall decide the matter as would a United
+States District Judge sitting in the case, whether under its diversity or
+federal question jurisdiction, except that Federal Rules of Civil Procedure
+shall not apply, except as specifically determined by the arbitrator. The
+arbitrator shall premise the award upon the claimant's legal right to recovery
+based on the terms of this agreement and the applicable law of the State of New
+York, without regard to conflict of laws rules, together with any applicable
+provisions of the laws of the United States.            (g) The arbitrator's award shall be final and binding upon the
+parties and their respective heirs, executors, assigns and personal
+administrators. Barring the existence of any circumstance specified by law for
+the vacatur of the award, the award shall be complied with by the party against
+whom it is directed without necessity for an application to the court for
+confirmation of the award. A judgment may be entered on the award by any court
+having competent jurisdiction. The parties to this agreement hereby consent and
+submit their person to the jurisdiction of the United States District Court for
+the Southern District of New York and any New York State court in New York
+County for the enforcement of these provisions and any award rendered hereunder.            (h) The arbitrator shall not be an employee, director, trustee or
+shareholder of any party or an Affiliate of any of the above-referenced Persons,
+shall be independent and impartial and shall abide by the Ethical Standards of
+Professional Responsibility issued by the Society of Professionals in Dispute
+Resolution in effect as of the date of this Agreement. Prior to accepting an
+appointment in this case, the arbitrator must promptly disclose any
+circumstances likely to create a reasonable inference of bias or conflict of
+interest or likely to preclude completion of the hearings within the prescribed
+time schedule. The arbitrator may be removed for cause consisting of actual
+bias, conflict of interest or other serious potential for conflict.
+                                       37
+<PAGE>            (i) The proportion in which the parties shall pay the costs, fees
+and expenses of the procedures set forth in this Section 10.05 pursuant to
+paragraph (e) above shall be split 50-50 between Seller, on the one hand, and
+Purchaser, on the other hand. Each party shall pay its own costs (including,
+without limitation, attorneys' fees and disbursements) and expenses in
+connection with these procedures.            (j) Any negotiations hereunder or any proceedings with an arbitrator
+shall be private and confidential. Except as may be required by applicable law,
+no party shall make (or instruct the arbitrator or any other Person to make) any
+public announcement with respect to the proceedings or decisions without the
+prior written consent of the other party hereto. The existence of any Dispute
+submitted to an arbitrator hereunder, and the award of such arbitrator, shall be
+kept in the strictest confidence by the parties and such arbitrator, except as
+may be required in connection with the enforcement of such award or as otherwise
+required by applicable law.            (k) Each party hereto irrevocably and unconditionally consents to
+the service of any and all process in any such action or proceeding by the
+mailing of copies of such process by certified mail to such party and its, his
+or her counsel at their respective addresses specified in Section 10.02.      10.06 Counterparts. This Agreement may be executed simultaneously in two
+or more counterparts, each of which shall be deemed an original, but all of
+which together shall constitute one and the same instrument.      10.07 Headings. The title of this Agreement and the headings of the
+Sections and Articles of and the Schedules to this Agreement are for reference
+purposes only and shall not be used in construing or interpreting this
+Agreement.      10.08 Entire Agreement; Amendment; Waiver. This Agreement, including any
+exhibits and schedules hereto and other documents, instruments and certificates
+delivered pursuant to the terms hereof, sets forth the entire agreement and
+understanding of the parties hereto in respect of the subject matter hereof, and
+supersedes all prior agreements, promises, covenants, arrangements,
+representations or warranties, whether oral or written, by any party hereto or
+any officer, director, employee or representative of any party hereto. No
+modification or waiver of any provision of this Agreement shall be valid unless
+it is in writing and signed by both parties hereto. The waiver of breach of any
+term or condition of this Agreement shall not be deemed to constitute a waiver
+of any other breach of the same or any other term or condition.      10.09 Third Parties. Except as specifically set forth or referred to
+herein, nothing herein expressed or implied is intended or shall be construed to
+confer upon or give to any Person other than the parties hereto and their
+successors or assigns any rights or remedies under or by reason of this
+Agreement.      10.10 Reference to Days. All references to days in this Agreement shall be
+deemed to refer to calendar days, unless otherwise specified.                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK.]
+                                       38
+<PAGE>      IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed and delivered on the day and year first above written.                                   PURCHASER:                                         CYBD ACQUISITION, INC.
+                                         By: /s/ J.C. Chatpar
+                                             ----------------
+                                         Name:  J.C. Chatpar
+                                         Title: President                                         CYBER DIGITAL, INC.
+                                         By: /s/ J.C. Chatpar
+                                             ----------------
+                                         Name:  J.C. Chatpar
+                                         Title: President & CEO                                   SELLER:                                         eLEC COMMUNICATIONS CORP.
+                                         By: /s/ Paul H. Riss
+                                             ----------------
+                                         Name:  Paul H. Riss
+                                         Title: CEO
+</TEXT>
+</DOCUMENT>
